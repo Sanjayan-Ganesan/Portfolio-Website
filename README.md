@@ -39,3 +39,4 @@
 - Give Access to Linkdln,Github and Medium Blog Pages.
 
 ## Deployment Link
+- https://bespoke-brigadeiros-f1e3ff.netlify.app/
